@@ -158,6 +158,7 @@ Python-xlib библиотека на языке Python (на чистом Pytho
 
 # Литература
 1. Christos Karayiannis. Hands-on Projects for the Linux Graphics Subsystem Kindle Edition. Amazon Digital Services LLC, 2012.
+2. Adrian Nye. Xlib Programming Manual for Version 11, Rel. 5, Vol. 1 (Definitive Guides to the X Window System). O'Reilly Media, July 10, 1994
 2. pywinauto - Windows GUI Automation with Python. URL: [https://github.com/pywinauto/pywinauto](https://github.com/pywinauto/pywinauto)
 3. pywinauto - Windows GUI Automation with Python. URL: [http://www.meetup.com/fr-FR/NZPUG-Auckland/events/225405249/](http://www.meetup.com/fr-FR/NZPUG-Auckland/events/225405249/)
 4. Программирование в среде X Window на основе библиотеки Xlib URL: [http://dfe.petrsu.ru/koi/posob/X/index.html](http://dfe.petrsu.ru/koi/posob/X/index.html)
@@ -165,3 +166,4 @@ Python-xlib библиотека на языке Python (на чистом Pytho
 6. The xlib manual [https://tronche.com/gui/x/xlib/](https://tronche.com/gui/x/xlib/)
 7. X New Developer’s Guide [https://www.x.org/wiki/guide/](https://www.x.org/wiki/guide/)
 8. Xplain: Explaining X11 for the rest of us [http://magcius.github.io/xplain/article/](http://magcius.github.io/xplain/article/)
+9. Kenneth A. Lambert. Fundamentals of Python: Data Structures. Cengage Learning/PTR, 2014
